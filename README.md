@@ -10,7 +10,7 @@
 - контекст менеджеры:
 ### [Тип contextmanager, контекстный менеджер](https://docs-python.ru/tutorial/osnovnye-vstroennye-tipy-python/kontekstnyj-menedzher-with/)
 ### [Контекстные менеджеры в Python(СТАТЬЯ)](https://digitology.tech/posts/kontekstnye-menedzhery-v-python/)
-### [Контекстный менеджер и 2 способа его написания. Конструкция WITH(Видео в YouTube)](https://www.youtube.com/watch?v=IG6oIbuSwCc)
+### [Контекстный менеджер и 2 способа его написания. Конструкция WITH (Видео в YouTube)](https://www.youtube.com/watch?v=IG6oIbuSwCc)
 
 ### [Код ДЗ. Задача №1 на GitHub]()
 ### [Код ДЗ. Задача №2 на GitHub]()
